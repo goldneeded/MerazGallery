@@ -1,0 +1,27 @@
+body{
+    background-color: white;
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+}
+
+h1{
+    margin: auto;
+    background-color: pink;
+    width: 250px;
+}
+
+#home{
+    padding: 10px;
+    width: 150px;
+    background-color: pink;
+    text-align: center;
+    margin-top:50px
+}
+
+#gallery{
+    padding: 10px;
+    width: 150px;
+    background-color: pink;
+    text-align: center;
+    margin:50px, 50px, 500px, 50px;
+}
